@@ -1,0 +1,9 @@
+
+//td[descendant::a[text()='RJ-69776-58779']]/following-sibling::td//span[@class='text-capitalize']
+//td[descendant::a[text()='RJ-69776-58779']]/following-sibling::td[@class='OrderProfitData']
+//td[contains(text(),'Name']
+//a[@href = 'logout.php']
+//input[@name = 'urname']
+//input[@name = 'update']
+//a[contains(@href,'userinfo')]
+//p[text()='You have 0 items in your cart. You visualize you cart ']
